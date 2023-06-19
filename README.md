@@ -3,7 +3,7 @@ Resources for learning Python and scripting Abaqus with Python. Might be interes
 
 * [Abaqus student version](https://www.3ds.com/edu/education/students/solutions/abaqus-le): up to 1000 nodes, register with your university email address
 * FEM tutorial videos from the Montanuni [course](https://online.unileoben.ac.at/mu_online/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=3212024) (German): ([Theorie](https://youtu.be/HtQPdsVP1aw)), [Biegbalken](https://youtu.be/cqU5vqp6rek), [Zugprobe](https://youtu.be/P8QDvGl6DbM), [Ball 1](https://youtu.be/tEfG5XWvmjo), [Ball 2](https://youtu.be/l8NBd502u94), [Schmiedeteil 1](https://youtu.be/1jS3qnErNy4), [Schmiedeteil 2](https://youtu.be/qOBPOL_UDds)
-* [100-line FEM code](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) and [FEM thoery](https://polymerfem.com/basic-fea-theory-part-1-principle-of-virtual-work/)
+* [100-line FEM code](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) and [FEM theory](https://polymerfem.com/basic-fea-theory-part-1-principle-of-virtual-work/)
 * [NumPy](www.numpy.org) for dealing with data arrays
 * [matplotlib](www.matplotlib.org) for plotting in Python
 * Learn to script Abaqus with Python: [website version](www.martinpletz.com/fe-scripting) or the [pdf script](https://www.researchgate.net/publication/345680663_Efficient_FE_Modelling_Course_Scripting_Abaqus_CAE_using_Python)
